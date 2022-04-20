@@ -1,6 +1,7 @@
 import React from "react";
+import { Header } from "../components/Header";
 // import Sidebar from '../components/sidebar';
-// import Header from "../components/Header";
+
 // import Footer from '../components/footer'
 
 const Adminlayout = ({ children, ...rest }) => {
@@ -10,7 +11,7 @@ const Adminlayout = ({ children, ...rest }) => {
 
   return (
     <div className="admin-layout">
-      {/* <Header /> */}
+      <Header />
       <div className="admin-body">{children}</div>
     </div>
   );
