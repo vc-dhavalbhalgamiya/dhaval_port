@@ -20,7 +20,7 @@ const Home = () => {
                   <h1 className="f-700 text-uppercase">
                     <span className="c-tx-primary">I'm steve milner.</span>
                     <br />
-                    <span className="text-white">web designer</span>
+                    {/* <span className="text-white">web designer</span> */}
                   </h1>
                 </div>
                 <p className="secondary-font c-tx-eighth f-300 mt-2 mb-3 ">
