@@ -9,8 +9,8 @@ const Home = () => {
     <>
       <div className="color-block" />
       <div className="home-wrapper">
-        <Container className="h-100 gx-5 " fluid>
-          <Row className="h-100 align-items-center ">
+        <Container className="h-100 gx-5" fluid>
+          <Row className="h-100 align-items-center">
             <Col md="4">
               <div className="main-developer-img-wrapper"></div>
             </Col>
