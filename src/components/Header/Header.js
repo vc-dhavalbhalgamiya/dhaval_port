@@ -23,7 +23,7 @@ const Header = () => {
           </NavLink>
         </NavItem>
         <NavItem>
-          <NavLink href="/">
+          <NavLink href="/about">
             <div className="icon-block">
               <FontAwesomeIcon icon={faUser} />
             </div>

@@ -1,0 +1,13 @@
+@import "../comon/variables";
+
+.about-wrapper{
+
+}
+.info-wrapper{
+    .info-list{
+        display: flex;
+        list-style-type: none;
+        padding: 0;
+        li{display: inline-flex;}
+    }
+}
